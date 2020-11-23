@@ -1,0 +1,6 @@
+S000000001 strBreak +44-131-33-44-55 Hello Michael. How are you?
+T000000001 strBreak @jurek I like #Witcher @monika likes it too.
+E000000001 strBreak James Smith james@outlook.com SIR 07/11/20 strBreak  11-22-33 strBreak  Cash Loss strBreak Dear Sir, we are writing to you regarding recent incident. We are really sorry that happened. Regards. Jack Orlando
+s000000002 strBreak 0044-131-22-33-44 Hi Meghan how are you? Jessica
+t000000002 strBreak @joice my favourite food #haggis
+e000000002 strBreak Miranda Bush miranda.b@gmail.com ordinary email strBreak Just normal message nothing special
